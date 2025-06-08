@@ -18,3 +18,4 @@ For more information, please refer to --> (link to paper - currently in progress
 
 [Watch video][https://github.com/kikiluvbrains/NMRdenoiser_App/blob/main/nmr_denoiser_tutorial.mp4](https://raw.githubusercontent.com/kikiluvbrains/NMRdenoiser_App/main/nmr_denoiser_tutorial.mp4)
 
+[▶️ Watch with sound](https://raw.githubusercontent.com/kikiluvbrains/NMRdenoiser_App/main/nmr_denoiser_tutorial.mp4)
