@@ -16,5 +16,5 @@ For more information, please refer to --> (link to paper - currently in progress
 2. Extract the contents of the `.zip` file.
 3. Run `NMRdenoiser.exe` and follow the on-screen instructions.
 
-[Watch video](https://github.com/kikiluvbrains/NMRdenoiser_App/blob/main/nmr_denoiser_tutorial.mp4)
+[Watch video][https://github.com/kikiluvbrains/NMRdenoiser_App/blob/main/nmr_denoiser_tutorial.mp4](https://raw.githubusercontent.com/kikiluvbrains/NMRdenoiser_App/main/nmr_denoiser_tutorial.mp4)
 
