@@ -16,8 +16,5 @@ For more information, please refer to --> (link to paper - currently in progress
 2. Extract the contents of the `.zip` file.
 3. Run `NMRdenoiser.exe` and follow the on-screen instructions.
 
-
-![image](https://github.com/user-attachments/assets/5e27be4d-2f93-4261-a4c2-9572cb04d055)
-
-![image](https://github.com/user-attachments/assets/b897fb2e-6d89-4f20-9854-569e728065d0)
+https://github.com/user-attachments/assets/9e1678ed-7590-461c-88b3-3e392893f0d6
 
